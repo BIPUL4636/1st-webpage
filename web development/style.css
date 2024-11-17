@@ -1,0 +1,25 @@
+#education{
+    background-color:white;
+    font-weight:light;
+    font-family:roboto,aerial;
+}
+#hobby{
+    background-color:white;
+    line-height:29px;
+}
+#skills {
+    background-color:white;
+    font-weight:bold;
+    font-size:12px;
+}
+#bipul{
+    background-color:white;
+    font-weight:bold;
+    
+}
+button{
+    background-color:grey
+}
+a{
+    text-decoration:blink;
+}
